@@ -37,10 +37,10 @@ const Footer = () => {
                 </ul>
             </div>
             <div className={styles.logonext}>
-                <img src="../images/nextjs-logo.png" alt="alt" height={10}/>
+                <img src="../next.svg" alt="alt" height={10}/>
             </div>
             <div className={styles.logovercel}>
-                <img src="../images/vercel.jpg" alt="alt" />
+                <img src="../vercel.svg" alt="alt" />
             </div>
             <div className={styles.seminario}>
                 <img src="../images/seminario.jpeg" alt="alt" />
