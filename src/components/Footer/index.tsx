@@ -37,7 +37,7 @@ const Footer = () => {
                 </ul>
             </div>
             <div className={styles.logonext}>
-                <img src="../next.svg" alt="alt" height={10}/>
+                <img src="../next.svg" alt="alt"/>
             </div>
             <div className={styles.logovercel}>
                 <img src="../vercel.svg" alt="alt" />
